@@ -17,8 +17,11 @@ Migrations/ – Scripts for upgrading or versioning database structures.
 Include header comments in each script:
 
 -- Purpose: Describe what this script does
+
 -- Compatible With: MySQL 8.0 / PostgreSQL 14
+
 -- Author: <name>
+
 -- Last Updated: YYYY-MM-DD
 
 
